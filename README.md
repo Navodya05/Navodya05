@@ -57,13 +57,10 @@
 
 ## Connect with me:
 <p align="center">
-<a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/navodya-senanayaka-83ba36219/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>    
-<a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>    
-<a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/behance.png"/></a> 
-<a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/dribbble.png"/></a> 
+<a href = "#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>     
 <a href = "https://github.com/Navodya05" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>  
 </p>
 
