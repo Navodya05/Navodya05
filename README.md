@@ -9,7 +9,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Sri Lanka Institute of Information Technology 
 - 💞️ I’m looking to collaborate on OpenSource Projects.
-- 📫 How to reach me : dilshachithmi@gmail.com
+
 - 🔭 I’m currently working on this page. 
 
 <p align="center"> 
